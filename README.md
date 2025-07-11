@@ -5,7 +5,7 @@
 </h2>
 <!-- ### Namastey 🙏 -->
 
-⚡ I am <b>Rahul Kumawat</b> and I am an <b>PHP Larave developer</b> with over 3.7 years of experience.
+⚡ I am <b>Rahul Kumawat</b> and I am an <b>PHP Laravel developer</b> with over 3.7 years of experience.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=laraveldevelopervikram)
 <a href="https://www.linkedin.com/in/laravel-developer-rahul-kumawat" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/laraveldevelopervikram" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
